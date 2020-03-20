@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+@media screen and (orientation:portrait) and (max-width:700px){
+.container-fluid .row.banner .col-lg-12.pc {
+    display: none;
+}
+
+
+
+
+
+}
+
+@media screen and (orientation:landscape) and (max-width:700px){
+.container-fluid .row.banner .col-lg-12.pc {
+    display: none;
+}
+
+
+}
+
+@media screen and (orientation:landscape) and (min-width:701px){
+.container-fluid .row.banner .col-lg-12.smart {
+    display: none;
+}
+
+
+}
+
+@media screen and (orientation:portrait) and (min-width:701px){
+.container-fluid .row.banner .col-lg-12.smart {
+    display: none;
+}
+
+
+
+}
