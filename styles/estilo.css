@@ -1,0 +1,64 @@
+@charset "utf-8";
+.hero_slide_container.d-flex.flex-column.align-items-center.justify-content-center .hero_slide_content.text-center h1 {
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    text-shadow: 3px 3px 1px #3F3E3E;
+    margin-top: -5px;
+}
+.col-lg-6.nopadding .register_section.d-flex.flex-column.align-items-center.justify-content-center .col-lg-12.modal-dialog {
+    color: #FCFCFC;
+}
+.card-body.text-center .card-text ul {
+    list-style-position: outside;
+}
+.card-text ul li {
+    margin-top: 10px;
+    text-align: justify;
+    margin-left: 50px;
+
+
+}
+.card-body.text-center .card-text ul {
+    padding-top: 10px;
+
+}
+.card-text ul #uno {
+    text-decoration: line-through;
+}
+.card-text ul #dos {
+    text-decoration: line-through;
+}
+.card-text ul #tres {
+    text-decoration: line-through;
+}
+.card-text ul #cuatro {
+    text-decoration: line-through;
+}
+.register_section.d-flex.flex-column.align-items-center.justify-content-center .register_content.text-center .register_title {
+    color: #FFFFFF;
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    font-size: 30px;
+    line-height: 36px;
+    text-align: justify;
+}
+.register_section.d-flex.flex-column.align-items-center.justify-content-center .register_content.text-center .register-title {
+    color: #FFFFFF;
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    font-size: xx-large;
+    text-align: left;
+}
+.register_content.text-center .register-title li {
+    list-style-type: square;
+    margin-left: 50px;
+    color: #FFFFFF;
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    font-size: 30px;
+}
+#search_form .form-group #boton {
+    font-family: "Myriad Pro", "Myriad Pro Cond";
+    font-size: large;
+    font-weight: lighter;
+}
+#navbarSupportedContent2 .navbar-nav.mr-auto .nav-item.active {
+    text-align: right;
+    margin-left: 295px;
+}
