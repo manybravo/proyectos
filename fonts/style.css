@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail-envelope-open:before {
+  content: "\e901";
+}
+.icon-mail-envelope-open1:before {
+  content: "\e902";
+}
+.icon-mail-envelope-open2:before {
+  content: "\e904";
+}
+.icon-mail-envelope-open3:before {
+  content: "\e905";
+}
+.icon-facebook:before {
+  content: "\e903";
+  color: #1877f2;
+	
+}
+.icon-facebook1:before {
+  content: "\e903";
+  color: #1877f2;
+	font-size: 2em;
+}
+.icon-instagram1:before {
+  content: "\e906";
+  color: #e4405f;
+}
+.icon-twitter:before {
+  content: "\e907";
+  color: #1da1f2;
+}
+.icon-whatsapp1:before {
+  content: "\e900";
+  color: #25d366;
+	
+}
+.icon-whatsapp:before {
+  content: "\e900";
+  color: #25d366;
+	font-size: 2em;
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+ul li .icon-facebook {
+    color: #AFE1F7;
+}
+.social ul {
+    border-color: #7FEC96;
+}
